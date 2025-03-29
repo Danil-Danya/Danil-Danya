@@ -56,10 +56,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-Danya&layout=compact&theme=radical" class="stats" />
     </p>
     <h2 align="center">🐍 GitHub Contribution Snake</h2>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Danil-Danya/Danil-Danya/blob/output/github-contribution-grid-snake-dark.svg">
-      <img src="https://github.com/Danil-Danya/Danil-Danya/blob/output/github-contribution-grid-snake.svg">
-    </picture>
+    <img src="https://github.com/Danil-Danya/Danil-Danya/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
     <p align="center">
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZsMm1hdHF4c3F4NmNyeXM2MGMybmFpMXc1ZjY4NTQ4bnplYTMxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6Gkz5AVTo7o4/giphy.gif" class="gif" />
     </p>
