@@ -1,17 +1,3 @@
-<style>
-    img {
-        width: 30px;
-        height: 30px;
-    }
-    .gif {
-        width: 400px !important;
-        height: 200px !important
-    }
-    .stats {
-        width: 500px !important;
-        height: 200px !important;
-    }
-</style>
 <div class="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <h1 align="center">Hello! 👋 I'm Daniel</h1>
     <h2 align="center">👨‍💻 About Me</h2>
