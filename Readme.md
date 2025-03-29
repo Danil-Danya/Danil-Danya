@@ -32,20 +32,20 @@
     </p>
     <h3 align="center">Frontend</h3>
     <p align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png"/>
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
-        <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" />
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
-        <img src="https://static-00.iconduck.com/assets.00/vue-js-icon-512x442-k8qh9h45.png" />
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-nuxt-dot-js-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945059.png" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" />
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-webpack-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-pack-icons-1174982.png" />
-        <img src="https://blog.kakaocdn.net/dn/edQkFg/btq66jMy5hK/UK280mtnLW2LX4kDKtrGr0/img.png"/>
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175153.png?f=webp" />
-        <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" />
-        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png" />
-        <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" />
+        <img src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" width="30" height="30" />
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30" height="30" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30" height="30" />
+        <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" width="30" height="30" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" width="30" height="30" />
+        <img src="https://static-00.iconduck.com/assets.00/vue-js-icon-512x442-k8qh9h45.png" width="30" height="30" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-nuxt-dot-js-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945059.png" width="30" height="30" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" width="30" height="30" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-webpack-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-pack-icons-1174982.png" width="30" height="30" />
+        <img src="https://blog.kakaocdn.net/dn/edQkFg/btq66jMy5hK/UK280mtnLW2LX4kDKtrGr0/img.png" width="30" height="30" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175153.png?f=webp" width="30" height="30" />
+        <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="30" height="30" />
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png" width="30" height="30" />
+        <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" width="30" height="30" />
     </p>
     <h3 align="center">Backend</h3>
     <p align="center">
