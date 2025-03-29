@@ -49,20 +49,20 @@
     </p>
     <h3 align="center">Backend</h3>
     <p align="center">
-        <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg"/>
-        <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png"/>
-        <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png"/>
-        <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png"/>
-        <img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png"/>
-        <img src="https://images.icon-icons.com/2415/PNG/512/sequelize_original_logo_icon_146348.png"/>
-        <img src="https://img.icons8.com/color/512/prisma-orm.png"/>
-        <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"/>
-        <img src="https://static-00.iconduck.com/assets.00/database-mongo-db-icon-980x1024-1q3t2p6x.png"/>
-        <img src="https://ashnik-images.s3.amazonaws.com/prod/wp-content/uploads/2021/02/20050854/confluent-blue.png"/>
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png"/>
-        <img src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png"/>
-        <img src="https://avatars.githubusercontent.com/u/19352526?s=280&v=4"/>
-        <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"/>
+        <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width="30" height="30" />
+        <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" width="30" height="30" />
+        <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" width="30" height="30" />
+        <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" width="30" height="30" />
+        <img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png" width="30" height="30" />
+        <img src="https://images.icon-icons.com/2415/PNG/512/sequelize_original_logo_icon_146348.png" width="30" height="30" />
+        <img src="https://img.icons8.com/color/512/prisma-orm.png" width="30" height="30" />
+        <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width="30" height="30" />
+        <img src="https://static-00.iconduck.com/assets.00/database-mongo-db-icon-980x1024-1q3t2p6x.png" width="30" height="30" />
+        <img src="https://ashnik-images.s3.amazonaws.com/prod/wp-content/uploads/2021/02/20050854/confluent-blue.png" width="30" height="30" />
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" />
+        <img src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" width="30" height="30" />
+        <img src="https://avatars.githubusercontent.com/u/19352526?s=280&v=4" width="30" height="30" />
+        <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="30" height="30" />
     </p>
     <h2 align="center">📊 GitHub Stats</h2>
     <p align="center">
