@@ -57,7 +57,7 @@
     </p>
     <h2 align="center">🐍 GitHub Contribution Snake</h2>
     <p align="center">
-        <img src="https://github.com/Danil-Danya/Danil-Danya/blob/output/github-contribution-grid-snake.svg" />
+        ![snake gif](https://github.com/Danil-Danya/Danil-Danya/blob/output/github-contribution-grid-snake.gif)
     </p>
     <p align="center">
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZsMm1hdHF4c3F4NmNyeXM2MGMybmFpMXc1ZjY4NTQ4bnplYTMxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6Gkz5AVTo7o4/giphy.gif" class="gif" />
